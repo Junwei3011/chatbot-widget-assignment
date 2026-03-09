@@ -7,7 +7,7 @@ A full-stack take-home implementation for a floating chatbot widget with:
 - In-memory session history
 - Optional RAG over a fixed OWASP CSV dataset
 
-This structure is aligned with the assignment requirements for a bottom-right chatbot widget, Gemini integration, session management, OWASP CSV retrieval, deployment readiness, and basic security practices. The assignment also explicitly allows a simple backend framework and a basic retrieval mechanism over the fixed OWASP dataset.
+This structure is aligned with the assignment requirements for a bottom-right chatbot widget, Gemini integration, session management, OWASP CSV retrieval, deployment readiness, and basic security practices with a simple backend framework and a basic retrieval mechanism over the fixed OWASP dataset.
 
 ## Project Structure
 
@@ -37,7 +37,7 @@ chatbot-widget-assignment/
 - RAG citations returned to frontend
 - CORS configuration and input validation
 
-## Why this implementation fits the assignment
+## Why this technical implementation is ideal
 
 The assignment asks for:
 - a floating chatbot widget
