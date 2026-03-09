@@ -47,7 +47,6 @@ The assignment asks for:
 - secure API key handling via environment variables
 - production-readiness with logging/error handling and deployment support
 
-This codebase covers those requirements directly.
 
 ## Backend Setup
 
@@ -116,7 +115,6 @@ http://localhost:5173
 - Default top-k: 3
 - Minimum score threshold: 55
 
-This is intentionally simple and explainable, which is a strong fit for a take-home assignment.
 
 ## Testing
 
@@ -126,12 +124,6 @@ Run backend tests:
 cd backend
 pytest
 ```
-
-## Deployment
-
-### Fast option
-- Frontend: Vercel or Netlify
-- Backend: Railway or Render
 
 ### Environment variables for backend
 - `GEMINI_API_KEY`
