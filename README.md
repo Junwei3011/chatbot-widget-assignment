@@ -64,7 +64,7 @@ Add your Gemini API key to `.env`:
 ```env
 GEMINI_API_KEY=your_key_here
 GEMINI_MODEL=gemini-2.5-flash
-ALLOWED_ORIGINS=http://localhost:5173
+ALLOWED_ORIGINS=[http://localhost:5173]
 ```
 
 Run the backend:
